@@ -1,0 +1,16 @@
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\bin\Debug\net5.0\Digitalinovationone.exe
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\bin\Debug\net5.0\Digitalinovationone.deps.json
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\bin\Debug\net5.0\Digitalinovationone.runtimeconfig.json
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\bin\Debug\net5.0\Digitalinovationone.runtimeconfig.dev.json
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\bin\Debug\net5.0\Digitalinovationone.dll
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\bin\Debug\net5.0\ref\Digitalinovationone.dll
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\bin\Debug\net5.0\Digitalinovationone.pdb
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\obj\Debug\net5.0\Digitalinovationone.csproj.AssemblyReference.cache
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\obj\Debug\net5.0\Digitalinovationone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\obj\Debug\net5.0\Digitalinovationone.AssemblyInfoInputs.cache
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\obj\Debug\net5.0\Digitalinovationone.AssemblyInfo.cs
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\obj\Debug\net5.0\Digitalinovationone.csproj.CoreCompileInputs.cache
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\obj\Debug\net5.0\Digitalinovationone.dll
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\obj\Debug\net5.0\ref\Digitalinovationone.dll
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\obj\Debug\net5.0\Digitalinovationone.pdb
+C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Primeiros passos com C#\Digitalinovationone\obj\Debug\net5.0\Digitalinovationone.genruntimeconfig.cache
