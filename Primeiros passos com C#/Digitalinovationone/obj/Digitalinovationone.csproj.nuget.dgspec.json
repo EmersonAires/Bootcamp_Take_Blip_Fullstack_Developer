@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Primeiros passos com C#\\Digitalinovationone\\Digitalinovationone.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Primeiros passos com C#\\Digitalinovationone\\Digitalinovationone.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Primeiros passos com C#\\Digitalinovationone\\Digitalinovationone.csproj",
+        "projectName": "Digitalinovationone",
+        "projectPath": "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Primeiros passos com C#\\Digitalinovationone\\Digitalinovationone.csproj",
+        "packagesPath": "C:\\Users\\emerson eduardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Primeiros passos com C#\\Digitalinovationone\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emerson eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
