@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\cursoMVC\\CursoTest\\CursoTest.csproj": {}
+    "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\CursoMVC\\CursoTest\\CursoTest.csproj": {}
   },
   "projects": {
     "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\CursoMVC\\CursoAPI\\CursoAPI.csproj": {
@@ -166,14 +166,14 @@
         }
       }
     },
-    "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\cursoMVC\\CursoTest\\CursoTest.csproj": {
+    "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\CursoMVC\\CursoTest\\CursoTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\cursoMVC\\CursoTest\\CursoTest.csproj",
+        "projectUniqueName": "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\CursoMVC\\CursoTest\\CursoTest.csproj",
         "projectName": "CursoTest",
-        "projectPath": "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\cursoMVC\\CursoTest\\CursoTest.csproj",
+        "projectPath": "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\CursoMVC\\CursoTest\\CursoTest.csproj",
         "packagesPath": "C:\\Users\\emerson eduardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\cursoMVC\\CursoTest\\obj\\",
+        "outputPath": "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\CursoMVC\\CursoTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emerson eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -190,11 +190,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\cursoMVC\\CursoAPI\\CursoAPI.csproj": {
-                "projectPath": "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\cursoMVC\\CursoAPI\\CursoAPI.csproj"
+              "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\CursoMVC\\CursoAPI\\CursoAPI.csproj": {
+                "projectPath": "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\CursoMVC\\CursoAPI\\CursoAPI.csproj"
               },
-              "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\cursoMVC\\cursoMVC\\cursoMVC.csproj": {
-                "projectPath": "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\cursoMVC\\cursoMVC\\cursoMVC.csproj"
+              "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\CursoMVC\\cursoMVC\\cursoMVC.csproj": {
+                "projectPath": "C:\\Users\\emerson eduardo\\Desktop\\Engenharia Civil\\Cursos\\Bootcamp - Take Blip\\Repositório\\Desenvolvimento de aplicações com .NET\\CursoMVC\\cursoMVC\\cursoMVC.csproj"
               }
             }
           }

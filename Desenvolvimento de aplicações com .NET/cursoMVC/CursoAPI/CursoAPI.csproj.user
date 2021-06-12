@@ -10,5 +10,6 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>cursoMVC.Models.Context</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\emerson eduardo\Desktop\Engenharia Civil\Cursos\Bootcamp - Take Blip\Repositório\Desenvolvimento de aplicações com .NET\CursoMVC\CursoAPI\Properties\PublishProfiles\CursoAPI20210610160623 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

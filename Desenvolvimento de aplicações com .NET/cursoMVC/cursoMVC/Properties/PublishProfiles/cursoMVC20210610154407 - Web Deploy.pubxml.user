@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAE9gQqAqxj0i2kWMwo+xkNQAAAAACAAAAAAAQZgAAAAEAACAAAACOPCd2/TzXIUdXNmaPUak8wgZCgcyuSHGfuBGAngqoyQAAAAAOgAAAAAIAACAAAACK4lN9g76d/Khw9JW/BhwaOdUEMpQx2MpyyTdoY54jc4AAAAD7Ip+6OzG/AX4OqZl1CNspPU0FdTb6QID4WsN29KoUrdm683tCv0SFOYgKqWS57A4c11hxeKMZMtnxYGu7/G0qQ/4nQx2BT24/6wj4JnLkx25zbGBfIDQlYGpsVSfmvDU+uoW7AC0L55Vt6TWEPDbTVtWstiv42wbuyHmuaE7DKUAAAACTM8fhuRSygj0jYowRJ8cYCV1ggckcLsOnW3u5t29PxoE5J0huHwHzrFf5uM+eZneQM+VQ8jP2NwfCtYssSkDZ</EncryptedPassword>
+    <History>True|2021-06-10T19:01:02.2807070Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="cursoMVC.Models.Context">
+      <Value>Data Source=tcp:cursomvcdbserver1062021.database.windows.net,1433%3bInitial Catalog=cursoMVC_db%3bUser Id=cursomvc%40cursomvcdbserver1062021%3bPassword=Ee27182818</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

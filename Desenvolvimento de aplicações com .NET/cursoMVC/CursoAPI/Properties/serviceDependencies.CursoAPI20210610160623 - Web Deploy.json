@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/CursoAPIapi/apis/CursoAPI",
+      "type": "apis.azure"
+    },
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/cursomvcdbserver1062021/databases/cursoMVC_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:10062021",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
